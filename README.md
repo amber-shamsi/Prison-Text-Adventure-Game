@@ -1,2 +1,2 @@
 # Prison-Text-Adventure-Game
-(Pending upload) A choice-based text-only adventure created by me with a creative narrative and alternate endings.
+A choice-based text-only adventure created by me as an exploration into creative writing, having more than 5 alternate endings. 
